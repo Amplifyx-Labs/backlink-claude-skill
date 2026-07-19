@@ -16,13 +16,13 @@ Works with **no account, no API key, and no payment.** Install and run.
 With the [`skills` CLI](https://github.com/obra/skills):
 
 ```bash
-npx skills add whatsuppiyush/backlinkbot-skill
+npx skills add whatsuppiyush/backlink-claude-skill
 ```
 
 Or clone it into your skills folder manually:
 
 ```bash
-git clone https://github.com/whatsuppiyush/backlinkbot-skill \
+git clone https://github.com/whatsuppiyush/backlink-claude-skill \
   ~/.claude/skills/backlink-hunter
 ```
 
@@ -68,7 +68,7 @@ submit URL — "do these first" up top.
 ## What's inside
 
 ```
-backlinkbot-skill/
+backlink-claude-skill/
 ├── SKILL.md                 # the methodology + how the agent runs a hunt
 ├── commands/                # 5 slash commands
 ├── references/              # the craft
