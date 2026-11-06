@@ -80,6 +80,7 @@ or startup can submit its product to earn a backlink and get discovered. Two sec
 | [Insidr AI](https://www.insidr.ai) | 60 | dofollow | freemium | https://www.insidr.ai/submit-ai-tool/ | AI tools wanting a dofollow link plus newsletter reach. |
 | [AI Scout](https://aiscout.net) | 58 | dofollow | freemium | https://aiscout.net/submit-tool | A straightforward dofollow AI listing. |
 | [AI Tool Hunt](https://www.aitoolhunt.com) | 57 | dofollow | freemium | https://www.aitoolhunt.com/submit | Another well-trafficked AI tools index. |
+| [Awesome Tools](https://awesome.tools) | 31 | dofollow | freemium (Free with DR 20+ backlink; $49 Featured Launch.) | https://awesome.tools/submit | Curated AI, developer, and SaaS directory with hands-on reviews and a public JSON agent submission API (/SKILL.md). |
 
 ### Dev & App Stores
 
@@ -159,6 +160,7 @@ niche, regional, or startup/press directories.
 - [Ask Your Android](http://askyourandroid.com/)
 - [Astro Growth](https://www.astrogrowth.com/)
 - [Awesome India](https://awesomeindie.com/)
+- [Awesome Tools](https://awesome.tools/submit)
 - [Behance](http://behance.net/)
 - [Being Guru](https://www.beingguru.com/submit-startu)
 - [Best App for Kids](https://www.bestappsforkids.com/submit)
